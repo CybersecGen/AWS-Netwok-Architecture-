@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/status-Completed-brightgreen)
 
-##Overview
+## Overview
 
 This project was built to as part of a networking and terraform exercise focused on clean modular infrastructure design, reproducible deployments and to demonstrate practical understanding of:
 
