@@ -23,10 +23,10 @@ This project was built as part of a networking and terraform exercise focused on
 
 ## Design Decisions
 
-- Public and private subnets are separated to isolate internet-facing and internal resources.
-- Route tables are explicitly associated to control traffic flow between subnets.
-- Security groups follow least-privilege principles for inbound and outbound traffic.
-- Terraform is used to ensure infrastructure is reproducible and version-controlled.
+- **Public** and **private subnets** are separated to isolate internet-facing and internal resources.
+- **Route tables** are explicitly associated to control traffic flow between subnets.
+- **Security groups** follow least-privilege principles for inbound and outbound traffic.
+- **Terraform** is used to ensure infrastructure is reproducible and version-controlled.
 
 ---
 
