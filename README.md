@@ -1,10 +1,6 @@
-# AWS Networking Architecture with Terraform
+# AWS Networking Architecture with Terraform ![Status](https://img.shields.io/badge/status-Completed-brightgreen)
 
-![Status](https://img.shields.io/badge/status-Completed-brightgreen)
-
-### Date: 10-10-2025
-
----
+**Date:** 10-10-2025
 
 ## Overview
 
