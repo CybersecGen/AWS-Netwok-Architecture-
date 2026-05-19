@@ -69,7 +69,7 @@ Terraform successfully provisioning the infrastructure:
 
 ---
 
-** Validation
+## Validation
 
 - Verified VPC and subnet creation in AWS Console
 - Confirmed public subnet internet routing
