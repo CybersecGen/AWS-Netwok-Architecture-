@@ -40,3 +40,20 @@ This project was built as part of a networking and terraform exercise focused on
 - AWS account
 - AWS CLI configured
 - Terraform installed
+
+---
+
+## Deployment Evidence
+### AWS Infrastructure
+
+VPC and subnet resources created successfully in AWS:
+
+![AWS Portal](aws-portal.png)
+
+### Terraform Provisioning
+Terraform successfully provisioning the infrastructure: 
+
+![Terraform Provision](terraform.png)
+
+---
+
